@@ -6,7 +6,7 @@ chat_id = "YOUR_CHAT_ID"
 
 [servers]
 server_list = [
-    {name = "Server 1", ip = "192.168.1.1"},
-    {name = "Server 2", ip = "8.8.8.8"},
-    {name = "Server 3", ip = "example.com"}
+    {name = "DOT-1", ip = "5.180.44.21"},
+    {name = "DOT-2", ip = "185.229.64.84"},
+    {name = "DOT-3", ip = "27.0.232.57"}
 ]
