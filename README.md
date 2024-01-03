@@ -9,7 +9,7 @@ pip install toml
 
 ```bash
 # Clone repository
-git clone https://github.com/muhaylosemenyuk/ping.git
+git clone https://github.com/erncrypto/ping.git
 cd ~/ping
 ```
 
