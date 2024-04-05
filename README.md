@@ -5,6 +5,8 @@
 sudo apt update
 sudo apt install python3 python3-pip git -y 
 pip install toml
+sudo apt install python3-pip
+sudo pip3 install python-telegram-bot
 ```
 
 ```bash
